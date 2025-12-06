@@ -1,5 +1,8 @@
 {
 
+  "homepage": "https://kanachi123.github.io/term_hackaton/",
+
+
   "name": "my-react-site",
 
   "version": "0.1.0",
@@ -36,7 +39,12 @@
 
     "test": "react-scripts test",
 
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    
+    "predeploy": "npm run build",
+    
+    "deploy": "gh-pages -d build"
+
 
   },
 
