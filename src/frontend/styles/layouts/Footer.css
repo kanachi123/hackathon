@@ -41,3 +41,28 @@ footer a:hover {
     font-size: var(--font-size-xs);
   }
 }
+
+
+footer a {
+  color: var(--color-text-white);
+  text-decoration: underline;
+  transition: opacity var(--transition-fast);
+}
+
+footer a:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+  footer {
+    font-size: var(--font-size-xs);
+    padding: var(--spacing-md) var(--spacing-lg);
+  }
+}
+
+@media (max-width: 480px) {
+  footer {
+    padding: var(--spacing-sm) var(--spacing-md);
+    font-size: var(--font-size-xs);
+  }
+}

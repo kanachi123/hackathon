@@ -1,4 +1,4 @@
-import { Routes, Route, useLocation } from "react-router-dom";
+import { Routes, Route, useLocation,HashRouter} from "react-router-dom";
 import MainLayout from "./layouts/MainLayout";
 import AdminLayout from "./layouts/AdminLayout";
 import ProtectedRoute from "./components/ProtectedRoute";
@@ -81,7 +81,7 @@ export default function App() {
           element={
             <div style={{ padding: "4rem", textAlign: "center" }}>
               <h1 className="blink">404</h1>
-              <p>page not found</p>
+              <p style={{ color: '#ab2e2e' }}>page not found</p>
             </div>
           }
         />
