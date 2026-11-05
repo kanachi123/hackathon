@@ -1,4 +1,4 @@
-это курсовая написалась на пис оф
+эта курсовая написалась на пис оф
 
 # Getting Started with Create React App
 
