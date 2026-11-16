@@ -11,7 +11,7 @@ owasp,
 проект закрыт,ибо на нее,нам дали бутерброд с говно 
 
 ![eat shit](https://
-media4.giphy.com/media/ v1.Y2IkPTc5MGI3NjExaj-
+media4.giphy.com/media/v1.Y2IkPTc5MGI3NjExaj-
 B1a2c5Zmd3M3FvOXh5Y2Vv-
 YTQ4N2czMGR4eW90emZ4b-
 W1IYzV1eSZIcD12MV9pbn-
