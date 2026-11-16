@@ -10,7 +10,13 @@
 owasp,
 проект закрыт,ибо на нее,нам дали бутерброд с говно 
 
-![eat shit](https://giphy.com/gifs/freedom-yolo-eat-shit-xT0xeBkTJMWvV7q56U)
+![eat shit](https://
+media4.giphy.com/media/ v1.Y2IkPTc5MGI3NjExaj-
+B1a2c5Zmd3M3FvOXh5Y2Vv-
+YTQ4N2czMGR4eW90emZ4b-
+W1IYzV1eSZIcD12MV9pbn-
+Rlcm5hbF9naWZfYnlfaWQm-
+Y3Q9Zw/xT0xeBkTJMWvV7q56U/giphy.webp)
 
 #dir_struct
 app/ — обычно здесь может лежать основной код приложения или, например, точка входа, роутинг и основная логика. Иногда в проектах на Next.js app — это особая папка с маршрутами, но не факт, что у тебя Next.
