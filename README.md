@@ -10,7 +10,7 @@
 owasp,
 проект закрыт,ибо на нее,нам дали бутерброд с говно 
 
-[eat shit](https://giphy.com/gifs/freedom-yolo-eat-shit-xT0xeBkTJMWvV7q56U)
+![eat shit](https://giphy.com/gifs/freedom-yolo-eat-shit-xT0xeBkTJMWvV7q56U)
 
 #dir_struct
 app/ — обычно здесь может лежать основной код приложения или, например, точка входа, роутинг и основная логика. Иногда в проектах на Next.js app — это особая папка с маршрутами, но не факт, что у тебя Next.
